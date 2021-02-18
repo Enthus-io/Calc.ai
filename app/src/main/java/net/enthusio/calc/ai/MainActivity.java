@@ -14,7 +14,7 @@ import android.widget.PopupMenu;
 import android.widget.Toast;
 
 
-import net.enthusio.calc.ai.utils.StatusBarUtils;
+import net.enthusio.calc.ai.utils.*;
 
 import java.text.MessageFormat;
 import java.util.ArrayList;
@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         StatusBarUtils.setLightMode(this);
-//       new UpdaterUtils(this);
+       new UpdaterUtils(this);
     }
 
 

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Calc.ai</string>
+    <string name="text_check_update">"Checking for updates, please wait"</string>
+    <string name="text_check_update_failed">Check for update failed, please check your network and try again</string>
+    <string name="text_latest">Your software version is up to date</string>
+    <string name="text_new_ver">new version</string>
+    <string name="text_calculator">Calc.ai</string>
+    <string name="text_converter">Converter</string>
 </resources>
