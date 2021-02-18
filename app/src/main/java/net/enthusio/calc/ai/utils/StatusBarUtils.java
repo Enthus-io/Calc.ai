@@ -1,4 +1,4 @@
-package net.enthusio.calculado.utils;
+package net.enthusio.calc.ai.utils;
 
 import android.app.Activity;
 import android.graphics.Color;

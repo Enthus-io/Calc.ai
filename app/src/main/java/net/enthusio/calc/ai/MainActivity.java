@@ -13,8 +13,8 @@ import android.widget.Button;
 import android.widget.PopupMenu;
 import android.widget.Toast;
 
-import net.enthusio.calculado.utils.StatusBarUtils;
-import net.enthusio.calculado.utils.UpdaterUtils;
+
+import net.enthusio.calc.ai.utils.StatusBarUtils;
 
 import java.text.MessageFormat;
 import java.util.ArrayList;
